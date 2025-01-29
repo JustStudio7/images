@@ -1,0 +1,29 @@
+<!-- 
+
+MIT License
+
+Copyright (c) 2025 JustStudio. <https://juststudio.is-a.dev/>
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+\-->
+<svg xmlns="http://www.w3.org/2000/svg" width="150" height="150" viewBox="0 0 150 150" version="1.1">
+    <path d="" stroke="none" fill="#000000" fill-rule="evenodd"/>
+    <path d="M 31.500 1.502 C 29.300 2.280, 26.070 4.468, 24.323 6.364 C 22.576 8.260, 20.666 11.541, 20.079 13.656 C 19.379 16.175, 19.011 37.310, 19.011 75 C 19.011 111.486, 19.389 133.859, 20.044 136.219 C 20.612 138.264, 22.278 141.366, 23.747 143.111 C 25.216 144.857, 28.236 147.111, 30.459 148.120 C 34.162 149.802, 37.848 149.957, 74.500 149.972 C 100.666 149.983, 115.876 149.607, 118.477 148.885 C 120.665 148.277, 124.103 146.132, 126.118 144.118 C 128.132 142.103, 130.277 138.665, 130.885 136.477 C 131.606 133.878, 131.991 118.443, 131.994 91.924 C 132 51.349, 132 51.349, 129.750 49.237 C 127.654 47.271, 126.219 47.105, 108.775 46.813 C 90.841 46.513, 89.955 46.404, 87.775 44.226 C 85.615 42.066, 85.475 41.022, 85 23.553 C 84.517 5.790, 84.416 5.066, 82.076 2.578 C 79.651 -0, 79.651 -0, 57.576 0.044 C 41.193 0.076, 34.468 0.453, 31.500 1.502 M 96.616 6.527 C 95.296 7.847, 95 10.494, 95 21 C 95 31.355, 95.306 34.163, 96.571 35.429 C 97.837 36.694, 100.645 37, 111 37 C 121.355 37, 124.163 36.694, 125.429 35.429 C 126.293 34.564, 127 33.516, 127 33.098 C 127 32.681, 120.909 26.300, 113.463 18.920 C 106.018 11.539, 99.545 5.367, 99.079 5.205 C 98.613 5.043, 97.505 5.638, 96.616 6.527" stroke="none" fill="#000000" fill-rule="evenodd"/>
+</svg>
